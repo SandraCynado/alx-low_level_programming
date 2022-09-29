@@ -4,6 +4,7 @@
  * _memcpy - copies a memory area
  * @dest: memory area to be copied to
  * @src: memory of bytes to be copied
+ * @n: number of byutes to be copied
  *
  * Return:pointer to the coied memory block
  */
